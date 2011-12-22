@@ -1,0 +1,63 @@
+Photoplotter Info File: D:/EAGLE-4.16r2/projects/examples/Irmouse/irmouse-00.20/circuit/b.gpi
+
+ Date              : 2009-12-15 19:01:16 
+ Plotfile          : D:/EAGLE-4.16r2/projects/examples/Irmouse/irmouse-00.20/circuit/b.gbl
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0000inch               4
+ D11      draw      0.0120inch              36
+ D12      draw      0.0061inch              79
+ D13      draw      0.0102inch               2
+ D14      draw      0.0122inch               4
+ D15      draw      0.0081inch              26
+ D16      draw      0.0039inch              16
+ D17      round     0.0520inch               2
+ D18      octagon   0.0520inch              30
+ D19      octagon   0.0630inch               2
+ D20      round     0.0630inch               2
+ D21      oval      0.1040inch x 0.0520inch    43
+ D22      round     0.0660inch               4
+ D23      oval      0.1120inch x 0.0560inch     2
+ D24      round     0.0560inch              20
+ D25      round     0.1300inch               2
+ D26      octagon   0.0560inch              20
+ D27      round     0.1000inch               1
+ D28      octagon   0.1000inch               1
+ D29      draw      0.0500inch              48
+ D30      draw      0.0100inch            1164
+ D31      draw      0.0400inch              24
+ D32      draw      0.0320inch             100
+ D33      draw      0.0200inch               4
+ D34      draw      0.0240inch               2
+ D35      draw      0.0160inch               3
+ D36      round     0.1660inch               4
+

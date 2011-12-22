@@ -1,0 +1,49 @@
+Photoplotter Info File: D:/EAGLE-4.16r2/projects/examples/Irmouse/irmouse-00.20/circuit/ts.gpi
+
+ Date              : 2009-12-15 19:01:17 
+ Plotfile          : D:/EAGLE-4.16r2/projects/examples/Irmouse/irmouse-00.20/circuit/ts.gts
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      round     0.0560inch               2
+ D11      octagon   0.0560inch              30
+ D12      octagon   0.0670inch               2
+ D13      round     0.0670inch               2
+ D14      oval      0.1080inch x 0.0560inch    43
+ D15      round     0.0700inch               4
+ D16      oval      0.1160inch x 0.0600inch     2
+ D17      round     0.0600inch              20
+ D18      round     0.1340inch               2
+ D19      octagon   0.0600inch              20
+ D20      round     0.1040inch               1
+ D21      octagon   0.1040inch               1
+ D22      round     0.1700inch               4
+

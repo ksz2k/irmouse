@@ -1,0 +1,18 @@
+2010-08-04 :: v00.21
+	
+	* board project added (found on the net)
+
+2007-03-01 :: v00.20
+
+	* remote timings and codes moved to separate files in remotes dir
+	* no precompiled hex files in distribution
+	* infos in Readme.txt added
+
+2007-02-16 :: v00.10
+
+	* first release with two tinys2313 connected via USART
+	  It just works, no conflicts with host, no dmesg's errors, cursor moves :D
+	
+2006-01-10 - 2007-02-12 :: v00.01 - 00.09
+
+	* test releases on one mega8, didn't work :|
