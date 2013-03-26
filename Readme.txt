@@ -1,6 +1,6 @@
 Readme for IRMouse - infra red controlled USB mouse device (HID class)
 
-http://szczuka.eu/en/avr/irmouse
+https://github.com/ksz2k/irmouse
 
 	ABOUT IRMouse
 
